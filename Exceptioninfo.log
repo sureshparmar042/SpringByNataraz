@@ -1,0 +1,3 @@
+2020-07-24-main--ERROR-com.nt.aspect.CommonExceptionLoggerAspect:java.lang.IllegalArgumentException: invalid inputsmethod with args float com.nt.service.ShoppingCart.calculateSingleProductBillAmt(float,float) method with args [1000.0, 0.0]
+   2020-07-24-main--ERROR-com.nt.aspect.CommonExceptionLoggerAspect:java.lang.IllegalArgumentException: invalid inputsmethod with args float com.nt.service.ShoppingCart.calculateSingleProductBillAmt(float,float) method with args [1000.0, 0.0]
+   
